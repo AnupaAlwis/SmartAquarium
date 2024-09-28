@@ -1,8 +1,8 @@
-# 🐠 Smart Aquarium
+# Smart Aquarium
 
 Welcome to the **Smart Aquarium** project! This custom-built aquarium uses advanced sensors and a machine learning model to automate various tasks and ensure the perfect environment for your fish. Whether you're looking to monitor water quality, automate feeding, or detect predators, this project has you covered!
 
-## 🌟 Features
+## Features
 
 ### 1. **Turbidity Level Sensor**
    - A custom-built sensor using a laser and LDR (Light Dependent Resistor) to measure the clarity of the water.
@@ -24,14 +24,14 @@ Welcome to the **Smart Aquarium** project! This custom-built aquarium uses advan
    - A machine learning model running on a Raspberry Pi 4B detects potential predators in the vicinity.
    - Alerts you when a predator is present to ensure the safety of your fish.
 
-## 🛠️ Hardware Components
+## Hardware Components
 - **Raspberry Pi 4B** for running the machine learning model.
 - **Laser** and **LDR** for custom turbidity sensor.
 - **Water level sensor** and **water pump** for automatic refilling.
 - **Temperature sensor** for water condition monitoring.
 - **Feeder motor** for automatic feeding.
 
-## 📦 Installation and Setup
+## Installation and Setup
 
 1. Clone the repository:
    ```bash
